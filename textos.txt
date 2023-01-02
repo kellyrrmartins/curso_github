@@ -1,1 +1,4 @@
 Textos adicionados para ver como  funciona o git, aula do curso fabrica de aplicativo, prof Matheus Fraga
+-Google
+-Apple
+-Tesla
